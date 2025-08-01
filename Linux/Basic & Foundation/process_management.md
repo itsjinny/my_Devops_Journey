@@ -31,9 +31,6 @@ k #kill a process
 r #renice: set the process priority
 ```
 
-`top`
-![alt text](image.png)
-
 ```bash
 #Killing the processes
 kill PID #specify the process id to be killed
